@@ -109,8 +109,7 @@
 وبعد تشغيل الحاوية، شغّل Jupyter Notebook عبر:
 </p>
 
-<<div dir="ltr" style="unicode-bidi: isolate; text-align: left;">
-
+<div dir="ltr" style="unicode-bidi: isolate; text-align: left;">
 ```sh
 # عند الطلب، قم بإنشاء كلمة مرور لخادم Jupyter
 jupyter server password
