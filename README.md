@@ -94,11 +94,13 @@
 </h2>
 
 <p style="direction: rtl; unicode-bidi: plaintext; text-align: right;">
+<span style="direction: rtl;">
+اطّلع على دليل التثبيت
+</span>
 <a dir="ltr" href="https://github.com/OpenClimateScience/M1-Open-Climate-Data/blob/main/HOW_TO_INSTALL.md">
-اطّلع على دليل التثبيت هنا.
-</a>
+هنا
+</a>.
 </p>
-
 <p style="direction: rtl; unicode-bidi: plaintext; text-align: right;">
 يمكنك تشغيل دفاتر
 <span dir="ltr">Jupyter</span>
