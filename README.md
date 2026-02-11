@@ -114,5 +114,5 @@
 # أنشئ كلمة المرور الخاصة بك عند الطلب
 jupyter server password
 
-# ثم شغّل Jupyter Notebook؛ وأدخل كلمة المرور عند الطلب
+ ## ثم شغّل Jupyter Notebook؛ وأدخل كلمة المرور عند الطلب
 jupyter notebook
