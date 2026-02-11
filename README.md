@@ -103,10 +103,12 @@
 يمكنك تشغيل دفاتر
 <span dir="ltr">Jupyter</span>
 في هذا المستودع باستخدام
-<a dir="ltr" href="https://docs.github.com/en/codespaces/overview">Github Codespaces</a>
+<a dir="ltr" href="https://docs.github.com/en/codespaces/overview">GitHub Codespaces</a>
 أو باستخدام
-<a dir="ltr" href="https://code.visualstudio.com/docs/devcontainers/containers">حاوية تطوير VSCode</a>.
-وبعد تشغيل الحاوية، شغّل Jupyter Notebook عبر:
+<a dir="ltr" href="https://code.visualstudio.com/docs/devcontainers/containers">حاوية تطوير VS Code</a>.
+وبعد تشغيل الحاوية، يمكنك تشغيل
+<span dir="ltr">Jupyter Notebook</span>
+كما يلي:
 </p>
 
 <div dir="ltr" style="unicode-bidi: isolate; text-align: left;">
