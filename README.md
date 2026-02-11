@@ -1,6 +1,6 @@
 <div dir="rtl" style="direction: rtl; unicode-bidi: isolate; text-align: right;">
 
-<p style="direction: rtl; unicode-bidi: plaintext; text-align: right;">
+<p style="text-align: right;">
 <a dir="ltr" href="https://zenodo.org/doi/10.5281/zenodo.11204778">
 <img src="https://zenodo.org/badge/678572794.svg" alt="DOI" />
 </a>
@@ -12,7 +12,7 @@
 
 <blockquote style="direction: rtl; unicode-bidi: plaintext; text-align: right;">
 كيف تُستخدم أقمار ناسا الصناعية، والبيانات الحقلية، والنماذج لتشخيص نظام مناخ الأرض والتنبؤ به؟
-وكيف يُقاس التباين المناخي ويُنمذج؟
+وكيف يتم قياس التقلّبات المناخية ونمذجتها؟
 </blockquote>
 
 <p style="direction: rtl; unicode-bidi: plaintext; text-align: right;">
@@ -20,7 +20,7 @@
 <a dir="ltr" href="https://openclimatescience.github.io/curriculum">منهج علوم المناخ المفتوحة</a>
 على تعريف المتعلّمين بمنصة
 <span dir="ltr">NASA Earthdata Search</span>
-وبالتنوّع الواسع من مجموعات بيانات المناخ التي توفّرها ناسا.
+وبالتنوّع الكبير في مجموعات بيانات المناخ التي توفّرها ناسا.
 <strong>وبنهاية هذه الوحدة، يُفترض أن تكون قادرًا على:</strong>
 </p>
 
@@ -29,15 +29,16 @@
     فهم كيفية توليد بيانات المناخ من مجموعات بيانات إعادة التحليل،
     ونماذج الدوران العامة،
     ونماذج نظام الأرض،
-    وكيف تختلف هذه النماذج عن بعضها.
+    ومعرفة أوجه الاختلاف بين هذه النماذج.
   </li>
   <li>
-    معرفة أماكن الحصول على المتغيّرات المناخية المختلفة
+    معرفة أين يمكن الحصول على المتغيّرات المناخية المختلفة
     (مثل الهطول ودرجة الحرارة)
-    بالمقاييس المكانية والزمانية المناسبة.
+    عند المقاييس المكانية والزمانية المناسبة.
   </li>
   <li>
-    إظهار استخدام متغيّرات مناخية متعددة من مجموعات بيانات مناخية مختلفة.
+    إظهار القدرة على استخدام متغيّرات مناخية متعددة
+    من مجموعات بيانات مناخية مختلفة.
   </li>
 </ul>
 
@@ -63,7 +64,7 @@
   </li>
   <li>
     <a dir="ltr" href="https://github.com/OpenClimateScience/M1-Open-Climate-Data/blob/main/notebooks/04_Accessing_MERRA2_Data_in_the_Cloud.ipynb">
-      الوصول إلى بيانات MERRA-2 على السحابة
+      الوصول إلى بيانات MERRA-2 عبر الحوسبة السحابية
     </a>
   </li>
   <li>
@@ -103,14 +104,14 @@
 <span dir="ltr">Jupyter</span>
 في هذا المستودع باستخدام
 <a dir="ltr" href="https://docs.github.com/en/codespaces/overview">Github Codespaces</a>
-أو كـ
+أو باستخدام
 <a dir="ltr" href="https://code.visualstudio.com/docs/devcontainers/containers">حاوية تطوير VSCode</a>.
-وبعد تشغيل الحاوية، شغّل Jupyter Notebook عبر:
+وبعد تشغيل الحاوية، قم بتشغيل Jupyter Notebook عبر:
 </p>
 
 <div dir="ltr" style="unicode-bidi: isolate; text-align: left;">
 ```sh
-# أنشئ كلمة مرورك الخاصة عند الطلب
+# أنشئ كلمة المرور الخاصة بك عند الطلب
 jupyter server password
 
 # ثم شغّل Jupyter Notebook؛ وأدخل كلمة المرور عند الطلب
