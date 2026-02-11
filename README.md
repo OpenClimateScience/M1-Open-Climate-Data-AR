@@ -120,7 +120,7 @@ jupyter server password
 # ثم شغّل Jupyter Notebook؛ وأدخل كلمة المرور عند الطلب
 jupyter notebook
 
-
+```
 
 <div dir="rtl" style="direction: rtl; unicode-bidi: isolate; text-align: right;">
 
