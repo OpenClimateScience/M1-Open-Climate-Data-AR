@@ -109,10 +109,11 @@
 وبعد تشغيل الحاوية، شغّل Jupyter Notebook عبر:
 </p>
 
-<div dir="ltr" style="unicode-bidi: isolate; text-align: left;">
+<<div dir="ltr" style="unicode-bidi: isolate; text-align: left;">
+
 ```sh
-# أنشئ كلمة المرور الخاصة بك عند الطلب
+# عند الطلب، قم بإنشاء كلمة مرور لخادم Jupyter
 jupyter server password
 
-# ثم شغّل Jupyter Notebook؛ وأدخل كلمة المرور عند الطلب
+# بعد ذلك، شغّل Jupyter Notebook وأدخل كلمة المرور عند الطلب
 jupyter notebook
