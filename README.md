@@ -103,27 +103,17 @@
 يمكنك تشغيل دفاتر
 <span dir="ltr">Jupyter</span>
 في هذا المستودع باستخدام
-<a dir="ltr" href="https://docs.github.com/en/codespaces/overview">GitHub Codespaces</a>
+<a dir="ltr" href="https://docs.github.com/en/codespaces/overview">Github Codespaces</a>
 أو باستخدام
-<a dir="ltr" href="https://code.visualstudio.com/docs/devcontainers/containers">حاوية تطوير VS Code</a>.
-وبعد تشغيل الحاوية، يمكنك تشغيل
-<span dir="ltr">Jupyter Notebook</span>
-كما يلي:
-<p style="direction: rtl; unicode-bidi: plaintext; text-align: right;">
-يمكنك تشغيل دفاتر
-<span dir="ltr">Jupyter</span>
-في هذا المستودع باستخدام
-<a dir="ltr" href="https://docs.github.com/en/codespaces/overview">GitHub Codespaces</a>
-أو باستخدام
-<a dir="ltr" href="https://code.visualstudio.com/docs/devcontainers/containers">VSCode Dev Container</a>.
-وبعد تشغيل الحاوية، شغّل
-<span dir="ltr">Jupyter Notebook</span>
-عبر:
+<a dir="ltr" href="https://code.visualstudio.com/docs/devcontainers/containers">حاوية تطوير VSCode</a>.
+وبعد تشغيل الحاوية، شغّل Jupyter Notebook عبر:
 </p>
 
 <div dir="ltr" style="unicode-bidi: isolate; text-align: left;">
 ```sh
-# عند الطلب، قم بإنشاء كلمة مرور لخادم Jupyter
+# أنشئ كلمة المرور الخاصة بك عند الطلب
 jupyter server password
-# بعد ذلك، شغّل Jupyter Notebook وأدخل كلمة المرور عند الطلب
+
+# ثم شغّل Jupyter Notebook؛ وأدخل كلمة المرور عند الطلب
 jupyter notebook
+
