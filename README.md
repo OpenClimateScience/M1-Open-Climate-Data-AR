@@ -110,7 +110,8 @@
 </p>
 
 <div dir="ltr" style="unicode-bidi: isolate; text-align: left;">
-```sh
+
+  ```sh
 # أنشئ كلمة المرور الخاصة بك عند الطلب
 jupyter server password
 
