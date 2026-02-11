@@ -24,7 +24,7 @@
 <strong>وبنهاية هذه الوحدة، يُفترض أن تكون قادرًا على:</strong>
 </p>
 
-<ul style="direction: rtl; unicode-bidi: plaintext; text-align: right;">
+<ul style="direction: rtl; unicode-bidi: plaintext; text-align: right; list-style-position: inside;">
   <li>
     فهم كيفية توليد بيانات المناخ من مجموعات بيانات إعادة التحليل،
     ونماذج الدوران العامة،
@@ -46,7 +46,7 @@
 المحتويات
 </h2>
 
-<ol style="direction: rtl; unicode-bidi: plaintext; text-align: right;">
+<ol dir="rtl" style="direction: rtl; unicode-bidi: plaintext; text-align: right; list-style-position: inside;">
   <li>
     <a dir="ltr" href="https://github.com/OpenClimateScience/M1-Open-Climate-Data/blob/main/notebooks/01_Sources_of_Climate_Data.ipynb">
       مصادر بيانات المناخ
@@ -54,17 +54,17 @@
   </li>
   <li>
     <a dir="ltr" href="https://github.com/OpenClimateScience/M1-Open-Climate-Data/blob/main/notebooks/02_Intro_to_NASA_Earthdata_Search.ipynb">
-      مقدمة إلى منصة NASA Earthdata Search وبيانات إعادة التحليل
+      مقدمة إلى منصة <span dir="ltr">NASA Earthdata Search</span> وبيانات إعادة التحليل
     </a>
   </li>
   <li>
     <a dir="ltr" href="https://github.com/OpenClimateScience/M1-Open-Climate-Data/blob/main/notebooks/03_Reading_MERRA2_Gridded_Climate_Data.ipynb">
-      قراءة بيانات المناخ الشبكية MERRA-2
+      قراءة بيانات المناخ الشبكية <span dir="ltr">MERRA-2</span>
     </a>
   </li>
   <li>
     <a dir="ltr" href="https://github.com/OpenClimateScience/M1-Open-Climate-Data/blob/main/notebooks/04_Accessing_MERRA2_Data_in_the_Cloud.ipynb">
-      الوصول إلى بيانات MERRA-2 عبر الحوسبة السحابية
+      الوصول إلى بيانات <span dir="ltr">MERRA-2</span> عبر الحوسبة السحابية
     </a>
   </li>
   <li>
@@ -106,7 +106,7 @@
 <a dir="ltr" href="https://docs.github.com/en/codespaces/overview">Github Codespaces</a>
 أو باستخدام
 <a dir="ltr" href="https://code.visualstudio.com/docs/devcontainers/containers">حاوية تطوير VSCode</a>.
-وبعد تشغيل الحاوية، قم بتشغيل Jupyter Notebook عبر:
+وبعد تشغيل الحاوية، شغّل Jupyter Notebook عبر:
 </p>
 
 <div dir="ltr" style="unicode-bidi: isolate; text-align: left;">
